@@ -8,7 +8,7 @@ Repository to store Atom theme package
 
 # Screenshot
 
-![Screenshot](https://github.com/RealGithub/RealGithub-Atom/blob/master/theme.png)
+![Screenshot](https://raw.githubusercontent.com/RealGithub/RealGithub-Atom/master/theme.png)
 
 # Purpose
 
