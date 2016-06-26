@@ -1,0 +1,16 @@
+{
+  "name": "theme-realgithub",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "The One And Only 100% Alike Github theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/RealGithub/RealGithub-Atom",
+  "icon": "icon.png",
+  "license": "GPL v3",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
