@@ -13,5 +13,12 @@
   "license": "GPL v3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
+  },
+  "scripts": {
+    "convert": "apm init --theme tmp --convert ./../RealGithub-VSCode/themes/RealGithub.tmTheme",
+    "remove-old": "rm -f -R ./styles",
+    "move-new": "mv ./tmp/styles .",
+    "remove-tmp": "rm -f -R ./tmp",
+    "theme": "npm run convert && npm run remove-old && npm run move-new && npm run remove-tmp"
   }
 }
